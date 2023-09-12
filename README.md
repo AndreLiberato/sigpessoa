@@ -1,2 +1,2 @@
-# sigpessoafront
-Frontend usando Fresh
+# SigPessoa
+API do SigPessoa usando Java Spring
